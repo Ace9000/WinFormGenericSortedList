@@ -1,0 +1,11 @@
+C:\Users\anast\OneDrive\Desktop\Projects created by me from Udemy\GenericSortedList\GenericSortedList\bin\Debug\GenericSortedList.exe.config
+C:\Users\anast\OneDrive\Desktop\Projects created by me from Udemy\GenericSortedList\GenericSortedList\bin\Debug\GenericSortedList.exe
+C:\Users\anast\OneDrive\Desktop\Projects created by me from Udemy\GenericSortedList\GenericSortedList\bin\Debug\GenericSortedList.pdb
+C:\Users\anast\OneDrive\Desktop\Projects created by me from Udemy\GenericSortedList\GenericSortedList\obj\Debug\GenericSortedList.csproj.AssemblyReference.cache
+C:\Users\anast\OneDrive\Desktop\Projects created by me from Udemy\GenericSortedList\GenericSortedList\obj\Debug\GenericSortedList.csproj.SuggestedBindingRedirects.cache
+C:\Users\anast\OneDrive\Desktop\Projects created by me from Udemy\GenericSortedList\GenericSortedList\obj\Debug\GenericSortedList.Form1.resources
+C:\Users\anast\OneDrive\Desktop\Projects created by me from Udemy\GenericSortedList\GenericSortedList\obj\Debug\GenericSortedList.Properties.Resources.resources
+C:\Users\anast\OneDrive\Desktop\Projects created by me from Udemy\GenericSortedList\GenericSortedList\obj\Debug\GenericSortedList.csproj.GenerateResource.cache
+C:\Users\anast\OneDrive\Desktop\Projects created by me from Udemy\GenericSortedList\GenericSortedList\obj\Debug\GenericSortedList.csproj.CoreCompileInputs.cache
+C:\Users\anast\OneDrive\Desktop\Projects created by me from Udemy\GenericSortedList\GenericSortedList\obj\Debug\GenericSortedList.exe
+C:\Users\anast\OneDrive\Desktop\Projects created by me from Udemy\GenericSortedList\GenericSortedList\obj\Debug\GenericSortedList.pdb
